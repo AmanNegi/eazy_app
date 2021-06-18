@@ -5,7 +5,7 @@ A simple Flutter project showing a simple item detail page, whereby we can chang
 ## Screenshots
 ||||
 |:-------------------------:|:-------------------------:|:-------------------------:|
-<img width="1604"  src="https://github.com/AmanNegi/eazy_app/blob/master/screenshots/item_detail.png">[Login Page](https://github.com/AmanNegi/flutter_30_days/blob/main/lib/pages/auth/login_page.dart) |  <img width="1604"  src="https://github.com/AmanNegi/eazy_app/blob/master/screenshots/color_picker.png">[SignUp Page]
+<img width="1604"  src="https://github.com/AmanNegi/eazy_app/blob/master/screenshots/item_detail.png">Item Detail |  <img width="1604"  src="https://github.com/AmanNegi/eazy_app/blob/master/screenshots/color_picker.png">Color Picker
 ||||
 ## Credits
 
